@@ -26,6 +26,6 @@ Una aplicación web simple y elegante para gestionar tareas usando **Python + Fl
 1. **Clona el repositorio:**
 
 ```bash
-git clone https://github.com/tu-usuario/gestor-tareas-flask.git
+git clone https://github.com/Jescad29/gestor-de-tareas
 cd gestor-tareas-flask
 ```
