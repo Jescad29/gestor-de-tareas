@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Crear un gestor de tareas ",
+        "completada": false
+    },
+    {
+        "nombre": "Estudiar programacion ",
+        "completada": false
+    },
+    {
+        "nombre": "hacer que la app funcione",
+        "completada": false
+    }
+]
