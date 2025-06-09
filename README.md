@@ -6,7 +6,7 @@ Una aplicación web simple y elegante para gestionar tareas usando **Python + Fl
 
 ## 📸 Vista previa
 
-![preview](https://via.placeholder.com/800x400?text=Interfaz+de+la+app+con+Bootstrap)
+![preview](./resources/img/gestor.jpg)
 
 ---
 
